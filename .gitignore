@@ -1,3 +1,8 @@
 /.project
 /.pydevproject
+/.installed.cfg
+/.mr.developer.cfg
+/bin/
+/develop-eggs/
+/env/
 /devsrc/
