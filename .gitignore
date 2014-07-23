@@ -9,6 +9,7 @@
 /devsrc/
 /coverage/
 /var/
+/eggs/
 
 /.settings/
 /mkpw.py
