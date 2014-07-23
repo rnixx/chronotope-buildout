@@ -9,3 +9,8 @@
 /devsrc/
 /coverage/
 /var/
+
+/.settings/
+/mkpw.py
+/paster.log
+/update_db_structure.py
