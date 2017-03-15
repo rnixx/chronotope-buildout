@@ -5,12 +5,15 @@
 /.mr.developer.cfg
 /bin/
 /develop-eggs/
-/env/
 /devsrc/
 /coverage/
 /var/
 /eggs/
-
+/buildout.cfg
+/include/
+/lib/
+/local/
+/pip-selfcheck.json
 /.settings/
 /mkpw.py
 /paster.log

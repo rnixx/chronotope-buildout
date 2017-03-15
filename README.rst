@@ -12,11 +12,9 @@ Checkout this package with git::
 
     git@github.com:rnixx/chronotope-buildout.git
 
-Create virtual environment and bootstrap installation::
+Create bootstrap installation::
 
-    virtualenv --no-site-packages env
-    ./env/bin/python bootstrap.py -c dev.cfg
-    ./bin/buildout -c dev.cfg
+    ./boostrap.sh
 
 
 Development and Testing
@@ -34,7 +32,7 @@ Start application::
 Contributors
 ============
 
-- Robert Niederreiter
+- Robert Niederreiter (Author)
 
 - Holger Schwetter
 
